@@ -22,9 +22,8 @@ load_dotenv()
 class Config:
 
     BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
-    SOURCE = "https://github.com/Artis7eeR/ForwardTagRemoverBot"
+    SOURCE = "https://www.youtube.com/channel/UCPVeBAZTd3D44kX8e8mXTFg"
     START_TEXT = """
 Hi [{}](tg://user?id={}) 
-I am A Forward Tag remover Bot.
-Send /help to know more ©[Abdul Razaq](https://github.com/artis7eer)"""
-    HELP_TEXT = "Forward Me A File,Video,Audio,Photo or Anything And \nI will Send You the File Back\n\n`How to Set Caption?`\nReply Caption to a File,Photo,Audio,Media"
+I am Masbandicoot Bot Assistant :)."""
+    HELP_TEXT = "I only forward Masbandicoot Testimoni"
