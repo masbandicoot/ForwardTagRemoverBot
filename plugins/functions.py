@@ -19,11 +19,11 @@ from config import Config
 
 keyboard = [
     [
-        InlineKeyboardButton("Source Code", url=Config.SOURCE)
+        InlineKeyboardButton("Youtube", url=Config.SOURCE)
     ],
     [
-        InlineKeyboardButton("How To Create A Bot Like Me",
-                             url="https://youtu.be/swg6un2N4Fk")
+        InlineKeyboardButton("Tiktok",
+                             url="https://www.tiktok.com/@masbandicoot")
     ]
 ]
 
